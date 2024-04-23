@@ -45,4 +45,5 @@ if goal_node:
     print(f"Ближайший узел, удовлетворяющий условию, найден: {goal_node}")
 else:
     print("Ни один узел не удовлетворяет условию")
+    print('Salem, bul Balkiya')
 
